@@ -1,0 +1,11 @@
+.DS_Store
+
+.vscode/
+node_modules/
+dist/
+
+*.log*
+*.env*
+!.env.example
+!.env.defaults
+.npmrc
